@@ -2,9 +2,6 @@ cff-version: 1.2.0
 message: "If you use this dataset or code, please cite as below."
 type: dataset
 title: "Equine GWAS Atlas"
-abstract: >
-  A systematic evidence map and cross-phenotype synthesis of genome-wide
-  association studies in the domestic horse (Equus caballus).
 authors:
   - family-names: "Lindsay-McGee"
     given-names: "Victoria"
@@ -14,11 +11,3 @@ repository-code: "https://github.com/victorialindsaymcgee/equine-gwas-atlas"
 license: CC-BY-4.0
 version: "0.1.0"
 date-released: 2026-09-01
-keywords:
-  - equine
-  - GWAS
-  - genome-wide association
-  - systematic review
-  - evidence map
-  - horse
-  - genetics
