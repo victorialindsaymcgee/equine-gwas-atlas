@@ -1,0 +1,22 @@
+﻿# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+.Ruserdata
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# EndNote working files
+*.enl
+
+# Word/Office temporary files
+~$*.docx
+~$*.xlsx

@@ -1,0 +1,1 @@
+﻿association_id,analysis_id,variant_id_original,rsid,chr_original,position_original,assembly_original,chr_harmonised,position_harmonised,assembly_harmonised,mapping_status,effect_allele,other_allele,maf,effect_estimate,se,p_value,locus_label,ld_interval_reported,ld_interval_start,ld_interval_end,gene_reported,gene_mapping_code,evidence_tier
