@@ -11,3 +11,14 @@ repository-code: "https://github.com/victorialindsaymcgee/equine-gwas-atlas"
 license: CC-BY-4.0
 version: "0.1.0"
 date-released: 2026-09-01
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22256993
+keywords:
+  - equine
+  - GWAS
+  - genome-wide association
+  - systematic review
+  - evidence map
+  - horse
+  - genetics
