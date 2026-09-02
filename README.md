@@ -46,6 +46,6 @@ Code: MIT Licence
 
 ## Contact
 
-[Your name]
-[Your institution]
-[Your email]
+Dr Victoria Lindsay-McGee
+The University of Edinburgh
+victoria.lindsay-mcgee@ed.ac.uk
