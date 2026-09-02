@@ -12,7 +12,7 @@ authors:
     affiliation: "University of Edinburgh"
 repository-code: "https://github.com/victorialindsaymcgee/equine-gwas-atlas"
 license: CC-BY-4.0
-version: "0.1.0-dev"
+version: "0.1.0"
 date-released: 2026-09-01
 keywords:
   - equine
