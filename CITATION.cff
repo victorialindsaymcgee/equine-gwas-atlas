@@ -6,11 +6,11 @@ abstract: >
   A systematic evidence map and cross-phenotype synthesis of genome-wide
   association studies in the domestic horse (Equus caballus).
 authors:
-  - family-names: "[Your surname]"
-    given-names: "[Your given name]"
-    orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"
+  - family-names: "Lindsay-McGee"
+    given-names: "Victoria"
+    orcid: "https://orcid.org/0000-0001-7693-5839"
     affiliation: "University of Edinburgh"
-repository-code: "https://github.com/YOURUSERNAME/equine-gwas-atlas"
+repository-code: "https://github.com/victorialindsaymcgee/equine-gwas-atlas"
 license: CC-BY-4.0
 version: "0.1.0-dev"
 date-released: 2026-09-01
