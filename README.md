@@ -40,7 +40,7 @@ This project systematically characterises the methodological robustness, transpa
 
 This repository is manually archived on Zenodo at each significant release. New versions are uploaded to the existing Zenodo record to maintain a single concept DOI. GitHub releases are tagged for version control purposes.
 
-Zenodo concept DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22256993.svg)](https://doi.org/10.5281/zenodo.22256993)
+Zenodo concept DOI: [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22256993-blue)](https://doi.org/10.5281/zenodo.22256993)
 
 ## Licence
 
