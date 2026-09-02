@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite as below."
+type: dataset
+title: "Equine GWAS Atlas"
+authors:
+  - family-names: "Lindsay-McGee"
+    given-names: "Victoria"
+    orcid: "https://orcid.org/0000-0001-7693-5839"
+    affiliation: "University of Edinburgh"
+repository-code: "https://github.com/victorialindsaymcgee/equine-gwas-atlas"
+license: CC-BY-4.0
+version: "0.1.0"
+date-released: 2026-09-01
