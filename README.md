@@ -41,11 +41,11 @@ investigates shared genetic architecture across equine phenotypes.
 
 ## Licence
 
-Data: Creative Commons Attribution 4.0 (CC BY 4.0)
+Data: Creative Commons Attribution 4.0 (CC BY 4.0)  
 Code: MIT Licence
 
 ## Contact
 
-[Your name]
-[Your institution]
-[Your email]
+Dr Victoria Lindsay-McGee  
+The University of Edinburgh  
+victoria.lindsay-mcgee@ed.ac.uk
