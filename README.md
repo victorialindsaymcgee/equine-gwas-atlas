@@ -1,5 +1,5 @@
 ﻿# Equine GWAS Atlas
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22256993-blue)](https://doi.org/10.5281/zenodo.22256993)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22256993-blue)](https://doi.org/10.5281/zenodo.22256993)  
 [Project homepage](https://victorialindsaymcgee.github.io/portfolio/2026-equine-gwas-atlas/)
 
 A systematic evidence map and cross-phenotype synthesis of genome-wide association studies (GWAS) in the domestic horse (*Equus caballus*).
